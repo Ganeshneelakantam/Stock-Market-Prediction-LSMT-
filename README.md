@@ -2,13 +2,29 @@
 
 This Streamlit app predicts the closing price of stocks based on historical data using LSTM (Long Short-Term Memory) neural networks. Users can select a stock exchange and a stock ticker to view the prediction.
 
+## This is how app looks like
+![image](https://github.com/Ganeshneelakantam/Stock-Market-Prediction-LSMT-/assets/133114368/f69bae66-cfd0-43e4-b2c7-5e3fa98ebc7f)
+
+
 ## Features
 
 - Predicts the closing price of stocks for the next day based on historical data.
 - Provides visualizations of historical closing prices and moving averages.
 - Displays descriptive statistics and recent data for the selected stock.
 - Supports selection of stock exchanges and custom stock tickers.
+  
+## Supported Stock Market Exchanges
 
+- New York Stock Exchange
+- Nasdaq
+- Shanghai Stock Exchange
+- Euronext
+- Hong Kong Stock Exchange
+- Tokyo Stock Exchange
+- London Stock Exchange
+- Toronto Stock Exchange
+- Bombay Stock Exchange
+  
 ## Usage
 
 1. Clone the repository:
